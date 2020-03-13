@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #FEFBE2;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -121,6 +121,9 @@ input, select, textarea {
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
+	}
+	small {
+		font-size: .6em;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -257,6 +260,10 @@ input, select, textarea {
 		font-size: 0.8em;
 		position: relative;
 		top: -0.5em;
+	}
+
+	small {
+		font-size: 0.6em;
 	}
 
 	blockquote {
