@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #FEFBE2;
+		background: #ACACC2;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -124,6 +124,7 @@ input, select, textarea {
 	}
 	small {
 		font-size: .6em;
+		font-style: italic;
 	}
 
 		@media screen and (max-width: 1680px) {
