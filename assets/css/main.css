@@ -28,7 +28,6 @@ section, summary, time, mark, audio, video {
 
 .resp-iframe {
     position: absolute;
-		cursor: none;
     top: 0;
     left: 0;
     width: 100%;
