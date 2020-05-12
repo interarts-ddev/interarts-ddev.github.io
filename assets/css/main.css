@@ -127,7 +127,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #34336;
-		font-family: "Source Serif Pro", Helvetica, sans-serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
@@ -2394,6 +2394,7 @@ input, select, textarea {
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
+		overflow-y: auto;
 	}
 
 	table {
